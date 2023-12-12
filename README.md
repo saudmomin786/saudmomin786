@@ -9,4 +9,3 @@
 - ⚡Open for Internship opportunities and Project collaborations.
 - 📫 Shoot me an E-mail: msaud413@gmail.com
 
-Mohit's LinkdeInMohit's TwitterMohit's InstagramMohit's Instagram
