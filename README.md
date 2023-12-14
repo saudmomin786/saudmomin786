@@ -8,5 +8,4 @@
 - ⚙️ Tools - Git | GitHub | VS Code
 - ⚡Open for Internship opportunities and Project collaborations.
 - 📫 Shoot me an E-mail: msaud413@gmail.com
-- Resume- ![Screenshot 2023-12-15 005724](https://github.com/saudmomin786/saudmomin786/assets/153200210/f37e87ff-c692-4bf2-b233-0cf32c2503b7)
 
