@@ -1,4 +1,4 @@
-[cv.pdf](https://github.com/saudmomin786/saudmomin786/files/13677776/cv.pdf)- 👋 Hi, I’m Momin Mohammad Saud
+- 👋 Hi, I’m Momin Mohammad Saud
 - 👷🏼‍♂️ I am Third Year BE Student pursuing Computer Engineering @Savitribai Phule Pune University,Pune
 - 🔭 Web Developer (MERN Stack)
 - 🧑🏻‍💻 Languages - C/C++ | Python |
