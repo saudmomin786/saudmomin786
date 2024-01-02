@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Momin Mohammad Saud
-- 💻 Internship  @CodSoft  (REMOTE)  (DEC-23 - Present)
+- 💻 Internship  @CodSoft  (REMOTE)  (DEC-23 - Jan-24)
 - 💻 Internship @A2Z IT HUB PVT LTD AHMEDNAGAR (ON-SITE) (DEC-23 - Present)
 - 👷🏼‍♂️ I am Third Year BE Student pursuing Computer Engineering @Savitribai Phule Pune University,Pune @Vishwabharati Academy's College of Engineering Ahmednagar
 - 🔭 Web Developer 
