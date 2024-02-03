@@ -10,4 +10,4 @@
 - ⚙️ Tools - Git | GitHub | VS Code
 - ⚡Open for Internship opportunities and Project collaborations.
 - 📫 Shoot me an E-mail: msaud413@gmail.com
-- # These are supported funding model platforms
+
