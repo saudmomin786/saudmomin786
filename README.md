@@ -10,4 +10,17 @@
 - ⚙️ Tools - Git | GitHub | VS Code
 - ⚡Open for Internship opportunities and Project collaborations.
 - 📫 Shoot me an E-mail: msaud413@gmail.com
+- # These are supported funding model platforms
+
+github: [Momin Mohammad Saud]
+patreon: # Replace with a single Patreon username
+open_collective: # Replace with a single Open Collective username
+buymeacoffee: [EasyCodTut]
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+liberapay: # Replace with a single Liberapay username
+issuehunt: # Replace with a single IssueHunt username
+otechie: # Replace with a single Otechie username
+lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 
