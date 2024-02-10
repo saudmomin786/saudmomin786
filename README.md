@@ -30,15 +30,14 @@
 
 <h4 align="left">Connect with me :</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/theofficialrohan-kasabe1001ac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theofficialrohan-kasabe1001ac" height="30" width="40" /></a>  
-<a href="https://twitter.com/@RohanKasabe1001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@RohanKasabe1001" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/saud-momin-08635621a/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theofficialrohan-kasabe1001ac" height="30" width="40" /></a>  
 </p>
 
 
 
 
 ### 📊 GitHub Stats
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROHAN0011&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Saud's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROHAN0011&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN0011&layout=compact)](https://github.com/ROHAN0011/github-readme-stats)
 <img align="right" alt="GIF" src="https://github.com/ROHAN0011/ROHAN0011/blob/57a201a9a4404b5525a9bc57b72bf52d5708fe63/NUX_Octodex.gif" width="30%" height="200"/>
