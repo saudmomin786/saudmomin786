@@ -83,8 +83,6 @@ Data Manipulation: Pandas, NumPy, Data Wrangling, ETL.
 
 Data Visualization: Power BI, Tableau, Matplotlib, Seaborn.
 
-Statistical Analysis: Hypothesis Testing, Descriptive Statistics, Probability.
-
 Tools & Environment: Advanced Excel (Pivot, VLOOKUP, DAX), Jupyter Notebook, Git, Google Colab.
 
 
