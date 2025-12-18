@@ -47,21 +47,13 @@ Aspiring Data Analyst currently undergoing professional training at AccioJob Pvt
 
 <p align="left">
 <a href="https://support.microsoft.com/en-us/office/analyze-data-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png" width="36" height="36" alt="Excel" /></a>
-
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-
 <a href="https://www.geeksforgeeks.org/power-bi/power-bi-tutorial/" target="_blank" rel="noreferrer"><img src="https://i0.wp.com/begincodingnow.com/wp-content/uploads/2017/09/New_Power_BI_Logosvg.png?fit=630%2C630&ssl=1" width="36" height="36" alt="Powerbi" /></a>
-
 <a href="https://medium.com/@techtutorsti/tableau-documentation-fa0e17d9c03e" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354427/tableau.svg" width="36" height="36" alt="tableau" /></a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-
 <a href="https://www.w3schools.com/MySQL/default.asp" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8cl5rtqfvfbXqVktysiF-aR_TwZoeuYZwFg&s" width="36" height="36" alt="Sql" /></a>
-
 <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="36" height="36" alt="Github" /></a>
 <a href="#/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe4OJVvx9ardI-28fslTyxCQtAtyPpSP0Ecg&s" width="36" height="36" alt="Data Visz" /></a>
 </p>
