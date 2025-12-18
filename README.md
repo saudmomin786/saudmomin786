@@ -94,8 +94,6 @@ Tools & Environment: Advanced Excel (Pivot, VLOOKUP, DAX), Jupyter Notebook, Git
 
 <a href="http://www.github.com/saudmomin786"><img src="https://github-readme-stats.vercel.app/api?username=saudmomin786&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt=" Mohammad Saud Momin GitHub stats" /></a>
 
-<a href="http://www.github.com/saudmomin786"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saudmomin786&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 ### Support Me
 
 <a href="https://saudmomin786.github.io/Portfolio/"><img src="https://static.vecteezy.com/system/resources/previews/015/374/791/non_2x/view-portfolio-text-button-view-portfolio-sign-icon-label-sticker-web-buttons-vector.jpg" width="200" /></a>
