@@ -16,7 +16,7 @@ Bridging the gap between Raw Data and Business Insights by transforming complex 
 
 
 <a href="#" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/Saud?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Socials
