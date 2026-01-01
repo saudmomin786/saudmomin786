@@ -78,9 +78,6 @@ Aspiring Data Analyst currently undergoing professional training at **AccioJob P
 
 
 ### Tools | Frameworks 
-
-Web: HTML5, CSS3, PHP , Js
-
 Languages: Python (Expert), SQL / MySQL.
 
 Data Manipulation: Pandas, NumPy, Data Wrangling, ETL.
@@ -88,7 +85,6 @@ Data Manipulation: Pandas, NumPy, Data Wrangling, ETL.
 Data Visualization: Power BI, Tableau, Matplotlib, Seaborn.
 
 Tools & Environment: Advanced Excel (Pivot, VLOOKUP, DAX), Jupyter Notebook, Git, Google Colab.
-
 
 
 
