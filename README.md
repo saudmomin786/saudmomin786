@@ -32,7 +32,7 @@ Aspiring Data Analyst currently undergoing professional training at **AccioJob P
 
 • Proficient in Python for Data Analyst, specifically using libraries like Pandas, NumPy, and Matplotlib/Seaborn for data manipulation and visualization.
 
-• Skilled in creating interactive and insightful dashboards using Power BI / Tableau (jo bhi aapko aata ho) to communicate data trends to stakeholders.
+• Skilled in creating interactive and insightful dashboards using Power BI to communicate data trends to stakeholders.
 
 • Expertise in Data Analytics and Visualization tools such as Power BI, Excel (Advanced), and Python libraries including Pandas, NumPy, Matplotlib, and Seaborn.
 
