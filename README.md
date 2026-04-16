@@ -62,20 +62,6 @@ Aspiring Data Analyst currently undergoing professional training at **AccioJob P
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
 
-⚡ Understanding project requirements and providing data-driven recommendations to enhance academic and research performance using statistical tools. 
-
-⚡ Experienced in the full Data Analysis Lifecycle, including data collection, statistical modeling, and designing automated data flows for final products.
-
-⚡ Worked on the end-to-end Data Analysis Lifecycle—from data collection and cleaning to applying statistical models and creating final dashboards across Finance, Healthcare, and Education domains 
-
-⚡ Generated comprehensive Analytical Reports on institutional data, optimizing admission and academic workflows through data-driven insights.
-
-😄 Worked with data, applying statistical models, designing the ﬂow of the data product, and monitoring the end-to-end products.
-
-
-😄 Developed analytical projects involving Image Data and basic Chatbot frameworks to automate information retrieval for specific legal and security domains.
-
-
 
 ### Tools | Frameworks 
 Languages: Python (Expert), SQL / MySQL.
